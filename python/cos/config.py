@@ -6,7 +6,7 @@ _CONFIG_TEMPLATE_FILEPATH = cos.path.PROJECT_DIR / "config.ini.template"
 
 config = ConfigParser()
 if not (_CONFIG_FILEPATH).exists():
-    cos.env.copy(_CONFIG_TEMPLATE_FILEPATH, _CONFIG_FILEPATH)
+    cos.path.copy(_CONFIG_TEMPLATE_FILEPATH, _CONFIG_FILEPATH)
 config.read(_CONFIG_FILEPATH)
 
 

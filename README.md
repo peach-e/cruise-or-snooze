@@ -11,8 +11,8 @@ This tool was inspired because I want a workflow for booking flights like this:
 1. If it looks like it will be foggy/icy/terrible weather, do not trip the alarm and let me sleep in.
 
 ## Getting Started (Ubuntu)
-1. Clone and cd into the repo
-1. Create a virtual environment venv
+1. Clone and `cd` into the repo
+1. Create a virtual environment `venv`
     ```
     $ python3 -m virtualenv venv
     ```
@@ -25,8 +25,8 @@ This tool was inspired because I want a workflow for booking flights like this:
     ```
     $ pip install -r requirements.in
     ```
-1. Fire up the notebook with `$ ./start_notebook_server.sh`
-1. Modify the main notebook by setting the paths for your WAVE Files that report the weather settings.
+1. Fire up the notebook with `$ ./start_server.sh`
+1. Modify the main config file by setting the paths for your WAVE Files that report the weather settings and play music.
 1. Format your work and changes with `make clean-notebooks` and `make format`.
 
 ## Contributing
@@ -38,4 +38,3 @@ This tool was inspired because I want a workflow for booking flights like this:
 * Add a TAF Scraper
 * Add more complicated algorithms to help inform go/no-go decisions for more complicated use-cases (the current one literally just checks temp/dewpoint overnight).
 * Add more nuanced weather reporter.
-* Move the settings for voice reporting into a separate file.
