@@ -1,7 +1,7 @@
 # cruise-or-snooze
 Tools to monitor the weather overnight and wake you up early if it looks like it's gonna be a nice day.
 
-I came up with Cruz or snooze because I booked a flight to the Langley Regional airport, at 8:00 in the morning, and showed up to discover that the plane was covered in sheet ice, preventing me from flying before the next booking.
+I came up with Cruise or Snooze because I booked a flight to the Langley Regional airport for 8:00 in the morning, meaning I got up at 05:00, drove out there, and showed up to discover that the plane was covered in sheet ice, preventing me from flying before the next booking.
 
 This tool was inspired because I want a workflow for booking flights like this:
 1. The night before, I see the 8:00am slot is open for the Cessna.
