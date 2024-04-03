@@ -1,0 +1,7 @@
+jupyter
+notebook
+black
+black[jupyter]
+pytz
+sounddevice
+scipy

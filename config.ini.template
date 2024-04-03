@@ -1,0 +1,22 @@
+[audio_files]
+zero  = /home/peach/zero.wav
+one   = /home/peach/one.wav
+two   = /home/peach/two.wav
+three = /home/peach/three.wav
+four  = /home/peach/four.wav
+five  = /home/peach/five.wav
+six   = /home/peach/six.wav
+seven = /home/peach/seven.wav
+eight = /home/peach/eight.wav
+nine  = /home/peach/nine.wav
+minus = /home/peach/minus.wav
+
+celsius             = /home/peach/celsius.wav
+current_time_is     = /home/peach/general_announce.wav
+local_time          = /home/peach/local_time.wav
+minimum_temperature = /home/peach/minimum_temperature.wav
+temp_dp_diff        = /home/peach/temp_dp_diff.wav
+you_may_fly         = /home/peach/you_may_fly.wav
+
+tone_before_report = /home/peach/Documents/9 Sounds/photo_of_people.wav
+out_of_bed_music   = /home/peach/E1M1 - At Dooms Gate_attenuated.wav
